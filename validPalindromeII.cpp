@@ -25,7 +25,7 @@ public:
     }
     
     bool validPalindrome(string s) {
-        int i =0;
+        int i = 0;
         int j = s.size()-1;
         int ans = 0;
         return helper(i,j,s,ans);
