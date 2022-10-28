@@ -1,6 +1,12 @@
 {
     "C_Cpp.errorSquiggles": "Enabled",
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "xhash": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
     }
 }
