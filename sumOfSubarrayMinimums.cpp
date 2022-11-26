@@ -1,3 +1,7 @@
+#include<iostream>
+#include<stack>
+#include<vector>
+
 class Solution {
 public:
     int sumSubarrayMins(vector<int>& arr) {
