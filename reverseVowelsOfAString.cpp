@@ -1,3 +1,7 @@
+#include<iostream>
+#include<string>
+#include<iomanip>
+
 class Solution {
 public:
     string reverseVowels(string s) {
