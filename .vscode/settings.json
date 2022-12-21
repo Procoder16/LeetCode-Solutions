@@ -9,6 +9,7 @@
         "xstring": "cpp",
         "xutility": "cpp",
         "queue": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "stack": "cpp"
     }
 }
