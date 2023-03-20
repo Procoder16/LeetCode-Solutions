@@ -1,3 +1,5 @@
+// Binary Tree Pruning
+
 class Solution {
 public:
     TreeNode* pruneTree(TreeNode* root) {
